@@ -1,0 +1,28 @@
+table {
+	
+	border-collapse: collapse;
+	width:100%;
+	border: 2px solid #F5DEB3;
+	font-family: Verdana;	
+}
+
+th {
+	
+	font-size: 20px;
+	color: #8B795E;
+	
+}
+tr.nexton {
+	
+	background-color: #faf2e6;
+}
+tr {
+	
+	font-size: 17px;
+	
+}
+td.center {
+	
+	text-align: center;
+}
+
