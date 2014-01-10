@@ -1,0 +1,22 @@
+fieldset {
+	width: 25em;
+	background-color: #EDEDED;
+	font-size: 18px;
+	height: 5em;
+}
+.hidden {
+	position: absolute;
+	clip: rect(1px 1px 1px 1px);
+	clip: rect(1px, 1px, 1px, 1px);
+}
+h1 {
+	font-size: 22px;
+	font-family: Verdana;
+}
+#input {
+	width: 34em;
+}
+#bot {
+	font-size: 16px;
+	width: 49%;
+}
